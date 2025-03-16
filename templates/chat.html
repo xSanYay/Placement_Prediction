@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Placement Chatbot</title>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        #chatbox { width: 50%; margin: auto; border: 1px solid #ccc; padding: 20px; border-radius: 5px; }
+        .message { margin: 10px 0; }
+        .user { text-align: right; }
+        .ai { text-align: left; }
+        input, button { width: 100%; padding: 10px; margin-top: 10px; box-sizing: border-box; }
+        #messages { height: 300px; overflow-y: auto; padding-right: 10px; }
+    </style>
+</head>
+<body>
+    <div id="chatbox">
+        <div id="messages"></div>
+        <input id="query" type="text" placeholder="Enter your message" />
+        <button id="send">Send</button>
+    </div>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            // Fetch and display the initial bot message from the server.
+            fetch("/first_message")
+                .then(response => response.json())
+                .then(data => {
+                    const initialMessage = `<div class="message ai"><b>Bot:</b> ${data.response}</div>`;
+                    document.getElementById("messages").innerHTML += initialMessage;
+                    scrollToBottom();
+                });
+
+            document.getElementById("send").addEventListener("click", function () {
+                const query = document.getElementById("query").value;
+                if (!query) return;
+
+                // Display the user's message.
+                const userMessage = `<div class="message user"><b>You:</b> ${query}</div>`;
+                document.getElementById("messages").innerHTML += userMessage;
+                document.getElementById("query").value = "";
+                scrollToBottom();
+
+                // Send the query to the Flask backend.
+                fetch("/chat", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify({ query: query })
+                })
+                .then(response => response.json())
+                .then(data => {
+                    const aiMessage = `<div class="message ai"><b>Bot:</b> ${data.response}</div>`;
+                    document.getElementById("messages").innerHTML += aiMessage;
+                    scrollToBottom();
+                });
+            });
+
+            // Helper function to scroll to the bottom of the messages container.
+            function scrollToBottom() {
+                const messagesDiv = document.getElementById("messages");
+                messagesDiv.scrollTop = messagesDiv.scrollHeight;
+            }
+
+            // Optional: Allow sending the message by pressing Enter.
+            document.getElementById("query").addEventListener("keydown", function(event) {
+                if (event.key === "Enter") {
+                    event.preventDefault();
+                    document.getElementById("send").click();
+                }
+            });
+        });
+    </script>
+</body>
+</html>

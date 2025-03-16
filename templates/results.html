@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Results</title>
+</head>
+<body>
+    <h2>Recommended Companies for {{ name }}</h2>
+    <p><strong>USN:</strong> {{ usn }}</p>
+    <p><strong>CGPA:</strong> {{ CGPA }}</p>
+    <p><strong>Desired CTC:</strong> {{ desired_ctc }} LPA</p>
+    <p><strong>Domain:</strong> {{ domain }}</p>
+    <p><strong>Hackathons Attended:</strong> {{ hackathons }}</p>
+    <p><strong>Your Skills:</strong> {{ skills | join(", ") }}</p>
+
+    <h3>Top 5 Recommended Companies:</h3>
+    <ul>
+        {% for company in recommended_companies %}
+            <li>{{ company }}</li>
+        {% endfor %}
+    </ul>
+
+    {% if skills_to_learn %}
+        <h3>Suggested Skills to Learn:</h3>
+        <ul>
+            {% for skill in skills_to_learn %}
+                <li>{{ skill }}</li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>You already have the relevant skills for your domain!</p>
+    {% endif %}
+
+    <h3>Motivational Quote:</h3>
+    <blockquote>{{ quote }}</blockquote>
+
+    <br>
+    <a href="/">Go Back</a>
+</body>
+</html>

@@ -1,0 +1,477 @@
+USN,Name,Company,CTC,CGPA,Domain
+1RV18EC001,AARUSHI GUPTA,Airbus,8,8.65,Signal Processing
+1RV18EC002,ABHISHEK MALIK,Akamai,18.13,8.52,Software
+1RV18EC003,ABHISHEK V R,Genpact,11.4,6.71,IoT (Internet of Things)
+1RV18EC004,ADARSH S JAMADAGNI,BlueYonder,8.58,7.55,Software
+1RV18EC005,ADITHYA PISSAY S,Rambus,13.24,9.06,VLSI Design
+1RV18EC006,AFSHAN AHMED,Salesforce,35.37,8.86,Software
+1RV18EC007,AKASH PANDEY,Scaler Academy,8.5,5.92,Software
+1RV18EC008,AKILESH N S,Fidelity,12.93,8.13,Software
+1RV18EC009,AKSHATHA S CHAVAN,NILL,0,7.41,
+1RV18EC012,AMOGH GOWDA G,Publicis sapient,6.5,6.52,Software
+1RV18EC013,AMRUTH N,Rambus,13.24,7.92,VLSI Design
+1RV18EC014,ANANTHA SAI KRISHNA,Freshworks,7.5,7.88,Software
+1RV18EC015,ANIRUDH GUPTE,Microchip,10,8.46,Embedded Systems
+1RV18EC016,ANIRUDH PRAVEEN,Societe generale,13.12,7.62,Software
+1RV18EC017,ANIRUDH S NADIG,Societe generale,13.12,6.87,Software
+1RV18EC018,ANISH KESHAVA,Synopsys,12,9.42,VLSI Design
+1RV18EC019,ANISH SHARMA,Soroco,15,8.51,Software
+1RV18EC020,ANJALI SHANBHOG,HPE,10,7.79,Embedded Systems
+1RV18EC021,ANKIT KUMAR SINGHI,Rambus,13.24,7.92,VLSI Design
+1RV18EC022,ANURAAG GHOSH,Playsimple,20,8.29,Software
+1RV18EC023,ANUSHKA RAJ,Boeing,10,8.54,Embedded Systems
+1RV18EC024,ARJUN RAO N,Cisco,18.2,9.01,Software
+1RV18EC025,ARUN M,Honeywell,8,8.4,Software
+1RV18EC027,ASHMITA DEY,Blueyonder,8.58,7.76,Embedded Systems
+1RV18EC028,ASHWATH NARAYAN RAO,Cisco,18.2,9.06,Software
+1RV18EC029,AVINASH PATHY,Koch,8,8.69,Embedded Systems
+1RV18EC030,AWAIZ KHAN A,Samsung,16.75,7.56,Embedded Systems
+1RV18EC031,AYUSH SRIVASTAVA,NILL,0,5.88,
+1RV18EC032,BASAVASAGAR K PATIL,Boeing,10.3,9.09,Embedded Systems
+1RV18EC033,BHAVANA K,Boeing,10,8.67,VLSI Design
+1RV18EC034,CHANDAN RAVEENDRA K,Infineon,11.64,7.68,Embedded Systems
+1RV18EC035,CHINMAY N,Cisco,18.2,8.64,Software
+1RV18EC037,DANDU RITHIKA VARMA,NILL,0,7.45,
+1RV18EC038,DARSHAN ONKAR,NILL,0,6.38,
+1RV18EC039,DEEPASHREE R J,Societe Genarale,13.12,6.46,Analog and Digital Electronics
+1RV18EC040,DHANUSH B M,Robert Bosch,5,7.9,VLSI Design
+1RV18EC041,DINESH KUMAR G,Rambus,13.24,8.28,Software
+1RV18EC042,DIPTO CHAKRABARTI,Cognizant,4,8.18,Software
+1RV18EC043,DURGESH LANGOTI,Wipro,6.5,8.15,Software
+1RV18EC044,G ARAVIND,Honeywell,8,8.11,Embedded Systems
+1RV18EC045,GALIVEEDU SHOAIB,HPE-GIT,7,8.85,Embedded Systems
+1RV18EC046,GASI SAI DHEERAJ,NILL,0,6.55,
+1RV18EC047,GAUREESH CHAUHAN,Boeing,10,8.11,Analog and Digital Electronics
+1RV18EC048,GUNDUGULA NAGA CHANDRA LIKHITA,HPE-GRSB,8,7.46,Software
+1RV18EC049,GURUBASAVA,Delta Electronics,6,7.9,Software
+1RV18EC050,GURURAJ K HALAMANI,NILL,0,6.1,
+1RV18EC051,HARI KRISHNA R,Honeywell,8,6.66,Software
+1RV18EC052,HARIHARAN S,KPMG,6.3,7.23,Software
+1RV18EC053,HARIOM SHARMA,Walmart,22.62,8.11,Software
+1RV18EC055,HARSH SONGARA,Robert Bosch,5,9.57,Software
+1RV18EC056,HEMANTH MADEV NAIK,Trueminds,11,8.26,Communication Systems
+1RV18EC057,HEMMANURI SAI SATHYA KAILASH,NILL,0,6.08,
+1RV18EC058,ISHITA SHARMA,Societe generale,13.12,6.05,Communication Systems
+1RV18EC059,J K B ROHIT SURYA,Flexera,15,6.2,Embedded Systems
+1RV18EC060,JANARDHANAGOWDA C,Cisco,18.2,8.77,Software
+1RV18EC061,JUNAID KHAN,Tejas Network,10,8.92,Embedded Systems
+1RV18EC062,K M ABHISHEK,Signaltron,11.05,8.34,VLSI Design
+1RV18EC063,K S SHREYA,NILL,0,5.98,
+1RV18EC064,K SHANMUKHA VAMSHI,Siemens Healthcare,12.5,8.46,Control Systems
+1RV18EC065,KARTHIK PATIL A,Juniper Networks,12.78,7.96,Software
+1RV18EC066,KARTIK KUMAR,Cisco,18.2,7.56,Software
+1RV18EC067,KARTIK S MARATHE,Boeing,10,8.61,Embedded Systems
+1RV18EC068,KASHISH MALHOTRA,Qualcomm,25,8.81,Software
+1RV18EC069,KAUSHIK SENGUPTA,Baxter,10.08,9.1,Software
+1RV18EC070,KAVALI VISHNU,Honeywell,8,9.05,Software
+1RV18EC071,KAVYA S,Enquero Global,7,7.71,Software
+1RV18EC072,KEERTHANA M,Robert Bosch,5,8.93,Software
+1RV18EC073,KESHAV KASLIWAL,Robert Bosch +FURTHER_STUDIES,5,8.49,Software
+1RV18EC074,KIRAN KUMAR S,Genpact,11.4,7.26,Power Electronics
+1RV18EC075,KRISHNA PRASAD D,WDC,19.15,8.61,Embedded Systems
+1RV18EC076,KROTHA SUHARIKA,HPE,10,8.64,VLSI Design
+1RV18EC077,KUMARASWAMY T,Turning Minds,6,6.95,Power Electronics
+1RV18EC078,LALAHMED MOHAMMED SHAHBAAZ ALI,Texas Instruments,25.56,8.46,Software
+1RV18EC079,LALITH KUMAR E,Boeing,10,9.4,VLSI Design
+1RV18EC080,LAXMIKANTH CHOUGALE,Oracle,16.64,7.8,Embedded Systems
+1RV18EC081,M NISHANTH GOPAL,Wipro,6.5,7.82,VLSI Design
+1RV18EC082,M SRINATH,Wipro,6.5,8.93,Embedded Systems
+1RV18EC083,MADHUMITHA T G,Havells,8,8.18,VLSI Design
+1RV18EC084,MANOJ Y,Wipro,6.5,8.34,Embedded Systems
+1RV18EC085,MOHAN M S,HPE,10,8.69,VLSI Design
+1RV18EC087,MUNAGA SRI HARSHITHA,Qualcomm,25,9.13,Embedded Systems
+1RV18EC088,N AMAR,Havells,8,7.48,Analog and Digital Electronics
+1RV18EC089,NACHIKETH GONDA,NILL,0,7.44,
+1RV18EC090,NAMAN ANTONY MENEZES,Juniper Networks,12.78,9.07,Software
+1RV18EC091,NANDAN GOWDA P M,Epsilon,10,8.29,Software
+1RV18EC092,NANDESH GOUDAR,NILL,0,6.38,
+1RV18EC093,NAVADEEP S,NILL,0,5.62,
+1RV18EC094,NAVYASHREE B R,Qualcomm,25,9.54,Software
+1RV18EC095,NAYANA MITTI,HPE,10,8.02,Software
+1RV18EC096,NEHA DAOO,Qualcomm,25,9.12,VLSI Design
+1RV18EC097,NIHAR K M,Boeing +FURTHER_STUDIES,10,9.13,Software
+1RV18EC098,NIKHIL GUPTA,Entrepreneur,0,5.58,
+1RV18EC099,NIKHIL S K,Robert Bosch,5,7.27,Software
+1RV18EC100,NIKITA SIRI N C,Scaler Academy,8.5,6.41,Software
+1RV18EC101,NISCHITHA S,Publicis sapient,6.5,7.74,Power Electronics
+1RV18EC103,OORJA PAL,Phyllo +FURTHER_STUDIES,12,8.42,Analog and Digital Electronics
+1RV18EC104,P CHANDAN KUMAR,NILL,0,8.21,
+1RV18EC105,PARTH RAJANISH DIXIT,FURTHER_STUDIES,0,7.56,
+1RV18EC106,PARV JAIN,HDFC bank,6.57,6.4,IoT (Internet of Things)
+1RV18EC107,PATEL SUSHAN ANILKUMAR,Qualcomm,25,9.01,Software
+1RV18EC108,PAVANKALYAN D S,Capgemini,7.5,8.29,Software
+1RV18EC109,PEDDAMALLU RAKESH REDDY,Juniper Networks,12.78,8.08,Communication Systems
+1RV18EC110,PHALGUN G K,FURTHER_STUDIES,0,8.78,
+1RV18EC111,PRAJWAL B RAJ,Koch,8,8.54,Communication Systems
+1RV18EC112,PRAJWAL BALI,Robert Bosch,5,8.68,Software
+1RV18EC113,PRAMOD PATIL G S,Tata ulistore,11,7.7,Communication Systems
+1RV18EC114,PRASUN AAKASH,Genpact,11.4,7.36,Software
+1RV18EC115,PRATAP P VANGOL,FURTHER_STUDIES,0,9.08,
+1RV18EC116,PRATHEEK J BHAT,Koch,8,7.43,Software
+1RV18EC117,PREETI CHAVAN,Boeing,10,8.76,Software
+1RV18EC118,PRITHVI REDDY,BCN,10.9,7.26,Power Electronics
+1RV18EC119,PRITHVI V PATIL,Koch,8,6.1,Software
+1RV18EC120,PRIYANKA R V,SM creative Electronics,8,6.64,Software
+1RV18EC121,R VIBHA NARAYAN,Robert Bosch,5,8.79,Communication Systems
+1RV18EC122,RAGHAV RAWAT,ZS associates,12.84,7.69,Software
+1RV18EC123,RAGHAVENDRA P R,Capgemini,7.5,8.9,Software
+1RV18EC124,RAHUL CHIKKODI,HFCL,10,8.9,Software
+1RV18EC125,RAHUL PINNY,Samsung,16.75,8.83,Semiconductor Industry
+1RV18EC126,RAHUL V RAO,JP Morgan,14,9.14,Software
+1RV18EC127,RAJATH RAO T N,Airbus,8,9.04,Software
+1RV18EC128,RAJNANDINI DUBEY,Silicon Valley,11,8.49,Software
+1RV18EC130,RISHABH SRIVASTAVA,Airbus,8,8.52,Software
+1RV18EC131,ROHAN V K,Epsilon,10,8.38,VLSI Design
+1RV18EC132,ROUNAK KUMAR CHAURASIA,Capgemini,7.5,8.82,VLSI Design
+1RV18EC133,RUTU KIRAN,Walmart,22.62,8.93,Analog and Digital Electronics
+1RV18EC134,RUTURAJ B JADHAV,Koch,8,7.99,Embedded Systems
+1RV18EC135,S TANMAI,Koch,8,8.77,Software
+1RV18EC136,SAHARSHA N R,NILL,0,6.67,
+1RV18EC137,SAI CHARAN VIKRANTH PALURI,Boeing,10,8.98,Embedded Systems
+1RV18EC138,SAI KAILASH B C,Epsilon,10,9.27,Software
+1RV18EC139,SAI PRANAV G,Qualcomm,25,9.95,Software
+1RV18EC140,SAMVRIT KASHYAP,Byju's,10,5.65,Software
+1RV18EC141,SANDESH PADIYAR,Airbus,8,9.13,Software
+1RV18EC142,SANIKA PRAKASH,Boeing,10,8.74,Software
+1RV18EC143,SATYA PRAKASH PANDEY,Epsilon,10,8.41,Software
+1RV18EC144,SAURAV KUMAR,Capgemini,7.5,7.47,Software
+1RV18EC145,SHARAD,Sifive,56.25,8.57,Communication Systems
+1RV18EC146,SHASHWAT SHIVAM,NILL,0,5.15,
+1RV18EC147,SHIRAG SHIVAKUMAR,Genpact,11.4,6.65,Software
+1RV18EC148,SHIVALIK BHAN,KPMG,6.3,7.24,Software
+1RV18EC149,SHREYA GARG,Qualcomm,25,9.13,Software
+1RV18EC150,SHREYAS MOHAPATRA,Robert Bosch,5,7.76,Software
+1RV18EC151,SHREYASH R,Genpact,11.4,6.57,Software
+1RV18EC152,SHRIKRISHNA HEBBAR,Boeing,10,8.85,Software
+1RV18EC153,SHUBAM SUDHAKAR GAONKAR,KPMG,6.3,8.08,VLSI Design
+1RV18EC154,SIDDARTHA S S,Telstra,8.25,9.07,VLSI Design
+1RV18EC155,SOHAIL BAGAWAN,Honeywell,8,9.26,Software
+1RV18EC156,SOHAN A KOTIAN,Rambus,13.24,8.98,Software
+1RV18EC157,SOUMYA N AIHOLE,Texas Instruments,25.56,8.4,Software
+1RV18EC158,SREYAS M,Robert Bosch,5,9.26,Software
+1RV18EC159,SRIJANI CHAKRABORTY,Cisco,18.2,8.84,Software
+1RV18EC160,SRINIKETH S S,Boeing,10,9.6,Communication Systems
+1RV18EC161,SUBHAJIT ADHIKARY,Fivetran,28,9.13,Software
+1RV18EC162,SUBHAM SATAPATHY,Capgemini,7.5,8.38,Software
+1RV18EC163,SUMANT KUMBAR,Koch,8,8.71,Software
+1RV18EC164,SUSHMITA B N,Epsolon +FURTHER_STUDIES,15,9.33,Software
+1RV18EC165,SUTEJ A S,KPMG,6.3,8.08,Software
+1RV18EC166,SYED FARHAN AHMAD,JP Morgan +FURTHER_STUDIES_,14,8.17,Software
+1RV18EC167,TARUN GOWDA,Accolite,11,8.42,Software
+1RV18EC168,TEJAS D J,Texas Instruments,25.56,8.77,Software
+1RV18EC169,UDAYRAJ V NAYAK,Blueyonder,8.58,7.68,Software
+1RV18EC170,UJJAWAL MAHENDRU,NILL,0,6.08,
+1RV18EC171,USHA S R,Goldman Sachs,23,8.99,Software
+1RV18EC172,UTKARSH JHA,HPE,10,8.2,Software
+1RV18EC173,UTKARSH MAHESHWARI,Citrix,23.74,8.98,Software
+1RV18EC174,V ADHARSH,Mphasis,6,6.63,Software
+1RV18EC175,VIGNESHWAR D,FURTHER_STUDIES,0,8.67,
+1RV18EC176,VIKAS R KARJIGI,Boeing,10,8.49,Software
+1RV18EC177,VINOD SAI E,Analog Devices,20.5,9.63,Software
+1RV18EC178,VIRUPAKSHI,Synopsys,12,7.79,Power Electronics
+1RV18EC179,VISHAL KUMAR,Boeing,10,8.81,Power Electronics
+1RV18EC180,VISHAL LADDA,NILL,0,7.65,
+1RV18EC182,VISHWARADHYA J ALDIMATH,Koch,8,8.04,Software
+1RV18EC183,VITTA SAI KRISHNA,MIURAC,12,5.99,Software
+1RV18EC184,VIVEK REDDY N C,Robert Bosch,5,7.87,Software
+1RV18EC186,YASH VARDHAN DIDWANIA,Delloite,8,8.32,Software
+1RV18EC187,YASHPARNA DE,Playsimple,20,8.51,Software
+1RV18EC188,YASHWANTH G,HPE-GRSB,8,8.58,Software
+1RV18EC189,YATHISH KUMAR Y,KPMG,6.3,7.4,Software
+1RV18EC190,SRISHTI TYAGI,Darvi,15,7.38,Software
+1RV19EC400,AMOGHAVARSHA B C,Blueyonder,8.58,7.05,Software
+1RV19EC401,ARAVIND KARTHIK V,Schneider Electric,9,7.69,Semiconductor Industry
+1RV19EC402,BASAVARAJ TENGINAKAI,Kibbcom,3.5,6.83,Semiconductor Industry
+1RV19EC403,HAREESHA B N,Havells,8,7.1,Power Electronics
+1RV19EC404,HARISH R,emphasis,6,6.83,Software
+1RV19EC405,KEERTI R BHADANKAR,NILL,0,6.05,
+1RV19EC406,MUKUL,NILL,0,5.46,
+1RV19EC407,NEHATAJ MULGUND,NILL,0,5.89,
+1RV19EC410,PRIYA R S,NILL,0,6.19,
+1RV19EC411,RAKESH GOMBI,Koch,8,7.25,Software
+1RV19EC412,RAKSHITH S P,Uniphi,8,7.21,Software
+1RV19EC413,SAMPOOJ S JAIN,Koch,8,8.5,Software
+1RV19EC414,SATYAJIT RAJBANSHI,Genpact,11.4,6.98,Software
+1RV19EC415,SHARATHRAJ B,NILL,0,8.01,
+1RV19EC416,SHEIKH MOHAMMED UMAR,Wipro,6.5,8.42,Software
+1RV19EC417,TANUJA M L,NILL,0,5.79,
+1RV18EC181,VISHAL KUMAR SINGH,Infosys,7.5,8.12,Software
+1RV18EC185,VIVEK SHARMA,L&T Technology Services,9.5,8.35,Embedded Systems
+1RV18EC191,YOGESH KUMAR,Mindtree,8.2,7.89,Software
+1RV18EC192,YUKTI JAIN,Accenture,10.5,8.63,Software
+1RV18EC193,ZAINAB KHAN,Capgemini,7.5,7.95,Software
+1RV18EC194,AAYUSH VERMA,Wipro,6.5,7.77,Software
+1RV18EC195,ABHINAV SINGH,Tech Mahindra,7,8.01,Software
+1RV18EC196,ADITI SHARMA,TCS,8,8.23,Software
+1RV18EC197,AKASH KUMAR,HCL Technologies,9,8.45,Software
+1RV18EC198,AKRITI GUPTA,IBM,10,8.67,Software
+1RV18EC199,AMAN SINGH,Oracle,16.64,8.89,Software
+1RV18EC200,AMISHA JHA,Microsoft,30,9.11,Software
+1RV18EC201,ANANYA MISHRA,Google,35,9.33,Software
+1RV18EC202,ANIKET TIWARI,Amazon,28,9.55,Software
+1RV18EC203,ANJALI YADAV,Adobe,26,8.78,Software
+1RV18EC204,ANKIT VERMA,VMware,22,8.99,Software
+1RV18EC205,ANSHUL GUPTA,ServiceNow,24,9.21,Software
+1RV18EC206,ARJUN SINGH,Intuit,27,9.43,Software
+1RV18EC207,ARTI KUMARI,Salesforce,35.37,9.65,Software
+1RV18EC208,ASHISH KUMAR,Uber,32,8.88,Software
+1RV18EC209,ASHNA JAIN,Netflix,40,9.10,Software
+1RV18EC210,AYUSH KUMAR,LinkedIn,38,9.32,Software
+1RV18EC211,BHAVNA SINGH,Twitter,36,9.54,Software
+1RV18EC212,CHANDAN KUMAR,Snapchat,34,8.77,Software
+1RV18EC213,DEEPAK KUMAR,Spotify,33,8.98,Software
+1RV18EC214,DEEPTI SHARMA,Airbnb,31,9.20,Software
+1RV18EC215,DHIRAJ KUMAR,Dropbox,29,9.42,Software
+1RV18EC216,DIVYA SINGH,Atlassian,27,9.64,Software
+1RV18EC217,GAURAV KUMAR,Stripe,25,8.87,Software
+1RV18EC218,GEETA KUMARI,Square,23,9.09,Software
+1RV18EC219,HARSH KUMAR,Lyft,21,9.31,Software
+1RV18EC220,HEENA JAIN,Pinterest,19,9.53,Software
+1RV18EC221,HIMANSHU KUMAR,Reddit,17,8.76,Software
+1RV18EC222,ISHAN KUMAR,Slack,15,8.97,Software
+1RV18EC223,JATIN KUMAR,Zoom,13,9.19,Software
+1RV18EC224,JYOTI KUMARI,Discord,11,9.41,Software
+1RV18EC225,KABIR KUMAR,Twitch,9,9.63,Software
+1RV18EC226,KAJAL KUMARI,Etsy,7,8.86,Software
+1RV18EC227,KAMAL KUMAR,Shopify,18,9.08,Software
+1RV18EC228,KANIKA JAIN,Databricks,20,9.30,Software
+1RV18EC229,KARAN KUMAR,Snowflake,22,9.52,Software
+1RV18EC230,KARISHMA SINGH,Confluent,24,8.75,Software
+1RV18EC231,KARTIK KUMAR,HashiCorp,26,8.96,Software
+1RV18EC232,KAVITA KUMARI,MongoDB,28,9.18,Software
+1RV18EC233,KESHAV KUMAR,Datadog,30,9.40,Software
+1RV18EC234,KHUSHI JAIN,PagerDuty,32,9.62,Software
+1RV18EC235,KIRAN KUMAR,Okta,34,8.85,Software
+1RV18EC236,KRISHNA KUMAR,Cloudflare,36,9.07,Software
+1RV18EC237,KUMAR GAURAV,GitLab,38,9.29,Software
+1RV18EC238,LAXMI KUMARI,Splunk,40,9.51,Software
+1RV18EC239,LOKESH KUMAR,Elastic,33,8.74,Software
+1RV18EC240,MADHU KUMARI,New Relic,31,8.95,Software
+1RV18EC241,MAHESH KUMAR,Dynatrace,29,9.17,Software
+1RV18EC242,MANISHA SINGH,Sumo Logic,27,9.39,Software
+1RV18EC243,MANOJ KUMAR,JFrog,25,9.61,Software
+1RV18EC244,MEENA KUMARI,Amplitude,23,8.84,Software
+1RV18EC245,MOHAN KUMAR,Segment,21,9.06,Software
+1RV18EC246,MONIKA JAIN,Snyk,19,9.28,Software
+1RV18EC247,MUKESH KUMAR,LaunchDarkly,17,9.50,Software
+1RV18EC248,NANDINI SINGH,Postman,15,8.73,Software
+1RV18EC249,NAVEEN KUMAR,Kong,13,8.94,Software
+1RV18EC250,NEELAM KUMARI,Auth0,11,9.16,Software
+1RV18EC251,NIKHIL KUMAR,Algolia,9,9.38,Software
+1RV18EC252,NISHA KUMARI,Contentful,7,9.60,Software
+1RV18EC253,NITIN KUMAR,Netlify,18,8.83,Software
+1RV18EC254,OM PRAKASH,Vercel,20,9.05,Software
+1RV18EC255,PALLAVI SINGH,Render,22,9.27,Software
+1RV18EC256,PANKAJ KUMAR,Supabase,24,9.49,Software
+1RV18EC257,PARUL JAIN,Railway,26,8.72,Software
+1RV18EC258,PAWAN KUMAR,PlanetScale,28,8.93,Software
+1RV18EC259,POOJA KUMARI,Neon,30,9.15,Software
+1RV18EC260,PRADEEP KUMAR,Fly.io,32,9.37,Software
+1RV18EC261,PRAKASH KUMAR,Railway,34,9.59,Software
+1RV20EC001,Aakash Verma,Infosys,4.5,7.8,Software
+1RV20EC002,Aditi Sharma,Wipro,4.0,8.1,Software
+1RV20EC003,Amit Patel,Tech Mahindra,4.2,7.5,Software
+1RV20EC004,Anjali Singh,HCL Technologies,5.0,8.5,Software
+1RV20EC005,Arun Kumar,IBM,6.0,7.9,Software
+1RV20EC006,Deepika Reddy,Oracle,12.0,8.8,Software
+1RV20EC007,Gaurav Jain,Microsoft,28.0,9.2,Software
+1RV20EC008,Harshita Kapoor,Google,32.0,9.5,Software
+1RV20EC09,Ishan Joshi,Amazon,25.0,9.0,Software
+1RV20EC010,Kajal Kumari,Adobe,23.0,8.7,Software
+1RV20EC011,Lakshay Mehra,VMware,19.0,8.9,Software
+1RV20EC012,Mansi Verma,ServiceNow,21.0,9.1,Software
+1RV20EC013,Navneet Singh,Intuit,24.0,9.3,Software
+1RV20EC014,Pooja Sharma,Salesforce,30.0,9.4,Software
+1RV20EC015,Rahul Gupta,Uber,29.0,8.6,Software
+1RV20EC016,Riya Chauhan,Netflix,35.0,9.1,Software
+1RV20EC017,Rohan Kumar,LinkedIn,33.0,9.3,Software
+1RV20EC018,Shweta Singh,Twitter,31.0,9.5,Software
+1RV20EC019,Sumit Verma,Snapchat,29.0,8.8,Software
+1RV20EC020,Tanvi Joshi,Spotify,28.0,9.0,Software
+1RV20EC021,Uday Kapoor,Airbnb,26.0,9.2,Software
+1RV20EC022,Varsha Reddy,Dropbox,24.0,9.4,Software
+1RV20EC023,Vikram Singh,Atlassian,23.0,9.6,Software
+1RV20EC024,Yashika Sharma,Stripe,22.0,8.7,Software
+1RV20EC025,Zeeshan Khan,Square,21.0,8.9,Software
+1RV20EC026,Aisha Patel,Lyft,20.0,9.1,Software
+1RV20EC027,Arnav Mehra,Pinterest,19.0,9.3,Software
+1RV20EC028,Bhavna Gupta,Reddit,18.0,9.5,Software
+1RV20EC029,Chetan Verma,Slack,17.0,8.8,Software
+1RV20EC030,Disha Joshi,Zoom,16.0,9.0,Software
+1RV20EC031,Divyansh Kapoor,Discord,15.0,9.2,Software
+1RV20EC032,Ekta Sharma,Twitch,14.0,9.4,Software
+1RV20EC033,Farhan Khan,Etsy,13.0,9.6,Software
+1RV20EC034,Gazal Verma,Shopify,12.0,8.7,Software
+1RV20EC035,Hitesh Joshi,Databricks,11.0,8.9,Software
+1RV20EC036,Ira Kapoor,Snowflake,10.0,9.1,Software
+1RV20EC037,Jayant Kumar,Confluent,9.5,9.3,Software
+1RV20EC038,Jyoti Reddy,HashiCorp,9.0,9.5,Software
+1RV20EC039,Karan Sharma,MongoDB,8.5,8.8,Software
+1RV20EC040,Kavita Verma,Datadog,8.0,9.0,Software
+1RV20EC041,Keshav Joshi,PagerDuty,7.5,9.2,Software
+1RV20EC042,Khushi Kapoor,Okta,7.0,9.4,Software
+1RV20EC043,Kiran Kumar,Cloudflare,6.5,9.6,Software
+1RV20EC044,Krishna Verma,GitLab,6.0,8.7,Software
+1RV20EC045,Lata Sharma,Splunk,5.5,8.9,Software
+1RV20EC046,Lokesh Joshi,Elastic,5.0,9.1,Software
+1RV20EC047,Madhu Kapoor,New Relic,4.8,9.3,Software
+1RV20EC048,Mahesh Kumar,Dynatrace,4.6,9.5,Software
+1RV20EC049,Mansi Reddy,Sumo Logic,4.4,8.8,Software
+1RV20EC050,Manoj Verma,JFrog,4.2,9.0,Software
+1RV20EC051,Meena Sharma,Amplitude,4.0,9.2,Software
+1RV20EC052,Mohan Joshi,Segment,15.5,7.6,Software
+1RV20EC053,Monika Kapoor,Snyk,14.8,8.3,Software
+1RV20EC054,Mukesh Kumar,LaunchDarkly,14.1,7.9,Software
+1RV20EC055,Nandini Reddy,Postman,13.4,8.6,Software
+1RV20EC056,Naveen Verma,Kong,12.7,7.2,Software
+1RV20EC057,Neelam Sharma,Auth0,12.0,7.8,Software
+1RV20EC058,Nikhil Joshi,Algolia,11.3,8.5,Software
+1RV20EC059,Nisha Kapoor,Contentful,10.6,7.1,Software
+1RV20EC060,Nitin Kumar,Netlify,9.9,7.7,Software
+1RV20EC061,Om Prakash,Vercel,9.2,8.4,Software
+1RV20EC062,Pallavi Reddy,Render,8.5,7.0,Software
+1RV20EC063,Pankaj Verma,Supabase,7.8,7.6,Software
+1RV20EC064,Parul Sharma,Railway,7.1,8.2,Software
+1RV20EC065,Pawan Joshi,PlanetScale,6.4,7.9,Software
+1RV20EC066,Pooja Kapoor,Neon,5.7,8.5,Software
+1RV20EC067,Pradeep Kumar,Fly.io,5.0,7.1,Software
+1RV20EC068,Prakash Reddy,Railway,16.2,8.9,VLSI Design
+1RV20EC069,Preeti Verma,Infosys,4.7,7.3,VLSI Design
+1RV20EC070,Priyanka Sharma,Wipro,4.2,8.6,VLSI Design
+1RV20EC071,Rahul Joshi,Tech Mahindra,4.4,7.0,VLSI Design
+1RV20EC072,Rajesh Kapoor,HCL Technologies,5.2,7.9,VLSI Design
+1RV20EC073,Rani Reddy,IBM,6.2,8.2,VLSI Design
+1RV20EC074,Ravi Verma,Oracle,12.5,9.1,VLSI Design
+1RV20EC075,Rekha Sharma,Microsoft,29.0,7.5,VLSI Design
+1RV20EC076,Ritesh Joshi,Google,33.0,8.1,VLSI Design
+1RV20EC077,Seema Kapoor,Amazon,27.0,8.9,VLSI Design
+1RV20EC078,Shyam Verma,Adobe,24.0,7.2,VLSI Design
+1RV20EC079,Smita Reddy,VMware,21.0,8.5,VLSI Design
+1RV20EC080,Suresh Sharma,ServiceNow,20.0,9.3,VLSI Design
+1RV20EC081,Uma Joshi,Intuit,22.0,7.6,VLSI Design
+1RV20EC082,Vijay Kapoor,Salesforce,31.0,8.3,VLSI Design
+1RV20EC083,Vinita Verma,Uber,30.0,9.0,VLSI Design
+1RV20EC084,Yogesh Reddy,Netflix,36.0,7.4,VLSI Design
+1RV20EC085,Yukti Sharma,LinkedIn,34.0,8.0,VLSI Design
+1RV20EC086,Zoya Kapoor,Twitter,32.0,8.8,VLSI Design
+1RV20EC087,Aakriti Sharma,Snapchat,30.0,7.1,VLSI Design
+1RV20EC088,Abhinav Joshi,Spotify,29.0,8.4,VLSI Design
+1RV20EC089,Aditi Kapoor,Airbnb,27.0,9.2,VLSI Design
+1RV20EC090,Ajay Verma,Dropbox,25.0,7.5,VLSI Design
+1RV20EC091,Akanksha Reddy,Atlassian,24.0,8.1,VLSI Design
+1RV20EC092,Akash Sharma,Stripe,22.0,8.9,VLSI Design
+1RV20EC093,Amrita Joshi,Square,21.0,7.3,VLSI Design
+1RV20EC094,Ankit Kapoor,Lyft,20.0,8.6,VLSI Design
+1RV20EC095,Anshul Verma,Pinterest,19.0,9.4,VLSI Design
+1RV20EC096,Aparna Reddy,Reddit,18.0,7.0,VLSI Design
+1RV20EC097,Apurva Sharma,Slack,17.0,8.3,VLSI Design
+1RV20EC098,Aryan Joshi,Zoom,16.0,9.1,VLSI Design
+1RV20EC099,Ashima Kapoor,Discord,15.0,7.4,VLSI Design
+1RV20EC100,Ayush Verma,Twitch,14.0,8.0,VLSI Design
+1RV20EC101,Barkha Reddy,Etsy,13.0,8.8,VLSI Design
+1RV20EC102,Chetna Sharma,Shopify,12.0,7.1,VLSI Design
+1RV20EC103,Chirag Joshi,Databricks,11.0,8.5,VLSI Design
+1RV20EC104,Deepali Kapoor,Snowflake,10.0,9.3,VLSI Design
+1RV20EC105,Dev Verma,Confluent,9.5,7.7,VLSI Design
+1RV20EC106,Disha Reddy,HashiCorp,9.0,8.4,VLSI Design
+1RV20EC107,Divya Sharma,MongoDB,8.5,9.2,VLSI Design
+1RV20EC108,Gaurav Joshi,Datadog,8.0,7.6,VLSI Design
+1RV20EC109,Geeta Kapoor,PagerDuty,7.5,8.2,VLSI Design
+1RV20EC110,Harish Verma,Okta,7.0,9.0,VLSI Design
+1RV20EC111,Heena Reddy,Cloudflare,6.5,7.3,VLSI Design
+1RV20EC112,Hemant Sharma,GitLab,6.0,8.7,VLSI Design
+1RV20EC113,Indu Joshi,Splunk,5.5,7.9,VLSI Design
+1RV20EC114,Isha Kapoor,Elastic,5.0,8.6,VLSI Design
+1RV20EC115,Jagdish Verma,New Relic,4.8,9.4,VLSI Design
+1RV20EC116,Juhi Reddy,Dynatrace,4.6,7.0,VLSI Design
+1RV20EC117,Kajal Sharma,Sumo Logic,4.4,8.3,VLSI Design
+1RV20EC118,Kamal Joshi,JFrog,4.2,9.1,VLSI Design
+1RV20EC119,Kanika Kapoor,Amplitude,4.0,7.4,VLSI Design
+1RV20EC120,Karan Verma,Infosys,4.9,8.2,Signal Processing
+1RV20EC121,Karishma Reddy,Wipro,4.3,7.7,Signal Processing
+1RV20EC122,Kartik Sharma,Tech Mahindra,4.5,8.9,Signal Processing
+1RV20EC123,Kavita Joshi,HCL Technologies,5.3,7.2,Signal Processing
+1RV20EC124,Keerti Kapoor,IBM,6.3,8.5,Signal Processing
+1RV20EC125,Keshav Verma,Oracle,12.8,7.8,Signal Processing
+1RV20EC126,Khushi Reddy,Microsoft,29.5,8.7,Signal Processing
+1RV20EC127,Kiran Sharma,Google,34.0,9.5,Signal Processing
+1RV20EC128,Krishna Joshi,Amazon,27.5,7.1,Signal Processing
+1RV20EC129,Lakshmi Kapoor,Adobe,24.5,8.4,Signal Processing
+1RV20EC130,Lalit Verma,VMware,21.5,9.2,Signal Processing
+1RV20EC131,Lata Reddy,ServiceNow,20.5,7.5,Signal Processing
+1RV20EC132,Lokesh Sharma,Intuit,22.5,8.0,Signal Processing
+1RV20EC133,Madhu Joshi,Salesforce,31.5,8.8,Signal Processing
+1RV20EC134,Mahesh Kapoor,Uber,30.5,7.3,Signal Processing
+1RV20EC135,Mansi Verma,Netflix,36.5,8.1,Signal Processing
+1RV20EC136,Manoj Reddy,LinkedIn,34.5,8.9,Signal Processing
+1RV20EC137,Meena Sharma,Twitter,32.5,7.4,Signal Processing
+1RV20EC138,Mohan Joshi,Snapchat,30.5,8.2,Signal Processing
+1RV20EC139,Monika Kapoor,Spotify,29.5,9.0,Signal Processing
+1RV20EC140,Mukesh Verma,Airbnb,27.5,7.6,Signal Processing
+1RV20EC141,Nandini Reddy,Dropbox,25.5,8.4,Signal Processing
+1RV20EC142,Naveen Sharma,Atlassian,24.5,9.2,Signal Processing
+1RV20EC143,Neelam Joshi,Stripe,22.5,7.8,Signal Processing
+1RV20EC144,Nikhil Kapoor,Square,21.5,8.6,Signal Processing
+1RV20EC145,Nisha Verma,Lyft,20.5,9.4,Signal Processing
+1RV20EC146,Nitin Reddy,Pinterest,19.5,7.1,Signal Processing
+1RV20EC147,Om Sharma,Reddit,18.5,7.9,Signal Processing
+1RV20EC148,Pallavi Joshi,Slack,17.5,8.7,Signal Processing
+1RV20EC149,Pankaj Kapoor,Zoom,16.5,9.5,Signal Processing
+1RV20EC150,Parul Verma,Discord,15.5,7.2,Signal Processing
+1RV20EC151,Pawan Reddy,Twitch,14.5,8.0,Signal Processing
+1RV20EC152,Pooja Sharma,Etsy,13.5,8.8,Signal Processing
+1RV20EC153,Pradeep Joshi,Shopify,12.5,7.3,Signal Processing
+1RV20EC154,Prakash Kapoor,Databricks,11.5,8.1,Signal Processing
+1RV20EC155,Preeti Verma,Snowflake,10.5,8.9,Signal Processing
+1RV20EC156,Priyanka Reddy,Confluent,10.0,7.5,Signal Processing
+1RV20EC157,Rahul Sharma,HashiCorp,9.8,8.3,Embedded Systems
+1RV20EC158,Rajesh Joshi,MongoDB,9.6,9.1,Embedded Systems
+1RV20EC159,Rani Kapoor,Datadog,9.4,7.4,Embedded Systems
+1RV20EC160,Ravi Verma,PagerDuty,9.2,8.2,Embedded Systems
+1RV20EC161,Rekha Reddy,Okta,9.0,9.0,Embedded Systems
+1RV20EC162,Ritesh Sharma,Cloudflare,8.8,7.7,Embedded Systems
+1RV20EC163,Seema Joshi,GitLab,8.6,8.4,Embedded Systems
+1RV20EC164,Shyam Kapoor,Splunk,8.4,9.2,Embedded Systems
+1RV20EC165,Smita Verma,Elastic,8.2,7.5,Embedded Systems
+1RV20EC166,Suresh Reddy,New Relic,8.0,8.1,Embedded Systems
+1RV20EC167,Uma Sharma,Dynatrace,7.8,8.9,Embedded Systems
+1RV20EC168,Vijay Joshi,Sumo Logic,7.6,7.2,Embedded Systems
+1RV20EC169,Vinita Kapoor,JFrog,7.4,7.8,Embedded Systems
+1RV20EC170,Yogesh Verma,Amplitude,7.2,8.6,Embedded Systems
+1RV20EC171,Yukti Reddy,Segment,7.0,7.0,Embedded Systems
+1RV20EC172,Zoya Sharma,Snyk,6.8,7.6,Embedded Systems
+1RV20EC173,Aakriti Joshi,LaunchDarkly,6.6,8.4,Embedded Systems
+1RV20EC174,Abhinav Kapoor,Postman,6.4,9.2,Embedded Systems
+1RV20EC175,Aditi Verma,Kong,6.2,7.7,Embedded Systems
+1RV20EC176,Ajay Reddy,Auth0,6.0,8.5,Embedded Systems
+1RV20EC177,Akanksha Sharma,Algolia,5.8,9.3,Embedded Systems
+1RV20EC178,Akash Joshi,Contentful,5.6,7.1,Embedded Systems
+1RV20EC179,Amrita Kapoor,Netlify,5.4,7.9,Embedded Systems
+1RV20EC180,Ankit Verma,Vercel,5.2,8.7,Embedded Systems
+1RV20EC181,Anshul Reddy,Render,5.0,9.5,Embedded Systems
+1RV20EC182,Aparna Sharma,Supabase,17.0,8.2,IoT (Internet of Things)
+1RV20EC183,Apurva Joshi,Railway,16.0,7.5,IoT (Internet of Things)
+1RV20EC184,Aryan Kapoor,PlanetScale,15.0,8.8,IoT (Internet of Things)
+1RV20EC185,Ashima Verma,Neon,14.0,9.6,IoT (Internet of Things)
+1RV20EC186,Ayush Reddy,Fly.io,13.0,7.2,IoT (Internet of Things)
+1RV20EC187,Barkha Sharma,Infosys,4.8,8.0,IoT (Internet of Things)
+1RV20EC188,Chetna Joshi,Wipro,4.3,8.7,IoT (Internet of Things)
+1RV20EC189,Chirag Kapoor,Tech Mahindra,4.5,9.5,IoT (Internet of Things)
+1RV20EC190,Deepali Verma,HCL Technologies,5.3,7.1,IoT (Internet of Things)
+1RV20EC191,Dev Reddy,IBM,6.3,8.4,IoT (Internet of Things)
+1RV20EC192,Disha Sharma,Oracle,12.9,9.2,IoT (Internet of Things)
+1RV20EC193,Divya Joshi,Microsoft,29.8,7.8,IoT (Internet of Things)
+1RV20EC194,Gaurav Kapoor,Google,34.5,8.5,IoT (Internet of Things)
+1RV20EC195,Geeta Verma,Amazon,28.5,9.3,IoT (Internet of Things)
+1RV20EC196,Harish Reddy,Adobe,25.5,7.0,IoT (Internet of Things)
+1RV20EC197,Heena Sharma,VMware,22.5,8.2,IoT (Internet of Things)
+1RV20EC198,Hemant Joshi,ServiceNow,21.5,9.0,IoT (Internet of Things)
+1RV20EC199,Indu Kapoor,Intuit,23.5,7.4,IoT (Internet of Things)
+1RV20EC200,Isha Verma,Salesforce,32.5,8.1,IoT (Internet of Things)
+
+
+
+
+
+
+

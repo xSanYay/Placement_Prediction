@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graph Dashboard</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        img { width: 80%; margin: 20px 0; border: 2px solid #ccc; padding: 10px; border-radius: 10px; }
+        h3 { margin-top: 40px; }
+    </style>
+</head>
+<body>
+    <h1>Data Analysis Graphs</h1>
+
+    <h3>Class Distribution</h3>
+    <img src="data:image/png;base64,{{ graphs['class_distribution'] }}" alt="Class Distribution">
+
+    <h3>CGPA vs Domain Encoding</h3>
+    <img src="data:image/png;base64,{{ graphs['cgpa_vs_domain'] }}" alt="CGPA vs Domain">
+
+    <h3>Feature Importance</h3>
+    <img src="data:image/png;base64,{{ graphs['feature_importance'] }}" alt="Feature Importance">
+
+    <h3>Confusion Matrix</h3>
+    <img src="data:image/png;base64,{{ graphs['confusion_matrix'] }}" alt="Confusion Matrix">
+
+    <h3>ROC-AUC Score</h3>
+    <img src="data:image/png;base64,{{ graphs['roc_auc'] }}" alt="ROC-AUC Score">
+
+    <h3>CTC Analysis</h3>
+    <img src="data:image/png;base64,{{ graphs['ctc_analysis'] }}" alt="CTC Analysis">
+
+    <h3>CGPA Distribution by Company</h3>
+    <img src="data:image/png;base64,{{ graphs['cgpa_boxplot'] }}" alt="CGPA Boxplot">
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Company Predictor</title>
+</head>
+<body>
+    <h2>Company Recommendation System</h2>
+    <form action="/predict" method="post">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required><br><br>
+
+        <label for="usn">USN:</label>
+        <input type="text" id="usn" name="usn" required><br><br>
+
+        <label for="CGPA">CGPA:</label>
+        <input type="number" step="0.01" id="CGPA" name="CGPA" required><br><br>
+
+        <label for="ctc">Desired CTC (LPA):</label>
+        <input type="number" step="0.01" id="ctc" name="ctc" required><br><br>
+
+        <label for="domain">Select Your Domain:</label>
+        <select id="domain" name="domain" required>
+            {% for domain in domains %}
+                <option value="{{ domain }}">{{ domain }}</option>
+            {% endfor %}
+        </select><br><br>
+
+        <label for="hackathons">Number of Hackathons Attended:</label>
+        <input type="number" id="hackathons" name="hackathons"><br><br>
+
+        <label for="skills">Enter Skills (comma-separated):</label>
+        <input type="text" id="skills" name="skills" required><br><br>
+
+        <button type="submit">Predict</button>
+    </form>
+</body>
+</html>
