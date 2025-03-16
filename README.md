@@ -53,16 +53,10 @@ To run the code, follow these steps:
 
 - `requirements.txt`: Contains the list of dependencies required for the project.
 - `main.py`: The main script to run the model.
-- `data/`: Directory to store the dataset files.
-- `models/`: Directory to store trained models.
-- `notebooks/`: Contains Jupyter notebooks for exploratory data analysis and model training.
+
 
 ## Contributing
 
 If you would like to contribute to this project, please fork the repository and create a pull request. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ```
